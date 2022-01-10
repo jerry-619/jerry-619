@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nanotect.</h1>
-<h3 align="center">I'm Developer from Thailand.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JeRrY.</h1>
+<h3 align="center">I'm Beginner from Kashmir.</h3>
 
 <p align="center">
 
-<a href="https://dsc.bio/nanotect">
-  <img src="https://lanyard-profile-readme.vercel.app/api/515490955801919488?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+<a href="https://discords.com/bio/p/jerry619">
+  <img src="" />
 </a>
 
 </p>
