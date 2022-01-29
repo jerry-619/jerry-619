@@ -4,18 +4,11 @@
 
 <p align="center">
 
-<a href="https://dsc.bio/jerry619">
-  <img src="https://lanyard-profile-readme.vercel.app/api/515490955801919488?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
-</a>
+
 
 </p>
 
 ## 🙋‍♂️ About Me
-
-- Release! **[NanoSpace](https://github.com/Adivise/NanoSpace)** (Discord Music Bot)
-- Release! **[DisSpaceX](https://github.com/Adivise/DisSpaceX)** (Discord Music Bot)
-- Release! **[Fun-Together](https://github.com/Adivise/Fun-Together)** (Discord Together)
-- Release! **[GOSU-TWITCHBOT](https://github.com/Adivise/gosu-twitchbot)** (osu!Twitchbot)
 
 - 🌱 I’m currently learning **Python & Javascript**
 
