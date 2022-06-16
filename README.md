@@ -54,6 +54,6 @@
 
 <div align="center"> 
 
-  <a href="https://www.youtube.com/channel/UC32Ji8C33pBGm2CpBgBvSCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/fardeen.619" target="_blank"><img src="https://logodix.com/logo/484500.jpg" target="_blank"></a>
  
 </div>
