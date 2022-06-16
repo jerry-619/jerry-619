@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm JeRrY.</h1>
-<h3 align="center">I'm Developer from Kashmir</h3>
+<h3 align="center">I'm a Developer from Kashmir</h3>
 
 <p align="center">
 
@@ -55,6 +55,5 @@
 <div align="center"> 
 
   <a href="https://www.youtube.com/channel/UC32Ji8C33pBGm2CpBgBvSCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/nanotect_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
  
 </div>
