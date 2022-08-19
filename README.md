@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python & Javascript**
+- 🌱 I’m currently learning **PHP & Java**
 
 - ⚡ Fun fact **play games, read manga, watching anime, streaming?.**
 
