@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **PHP & Java**
 
-- ⚡ Fun fact **play games, read manga, watching anime, streaming?.**
+- ⚡ Fun fact **play games, watching anime, streaming?.**
 
 ## 🚀 Know Languages & How to use?:
 
