@@ -10,9 +10,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **PHP & Java**
+- 🌱 I’m currently learning **Flutter & Python**
 
-- ⚡ Fun fact **play games, watching anime, streaming?.**
+- ⚡ Hobbies **play games, Codding, streaming?.**
 
 ## 🚀 Know Languages & How to use?:
 
