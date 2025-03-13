@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/jerr-619/github-readme-stats">
         <img title=🔥 src="https://github-readme-streak-stats.herokuapp.com/?user=Adivise&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
