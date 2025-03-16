@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter & Python**
 
-- ⚡ Hobbies **play games, Codding, streaming?.**
+- ⚡ Hobbies **play games, Coding, streaming?.**
 
 ## 🚀 Know Languages & How to use?:
 
