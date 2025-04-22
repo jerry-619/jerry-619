@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+## <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -145,7 +145,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+## <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -157,7 +157,7 @@
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerry-619" alt="jerry-619" /></a></p>
 
-###
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerry-619/jerry-619/output/pacman-contribution-graph-dark.svg">
@@ -165,4 +165,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jerry-619/jerry-619/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+##
