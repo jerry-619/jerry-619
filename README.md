@@ -150,7 +150,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jerry-619&theme=dark&border_radius=5.5" height="220" alt="streak graph"  />
+  <img src="https://git-hub-streak-stats.vercel.app?user=jerry-619&theme=transparent&border_radius=6.5" height="220" alt="streak graph"  />
 </div>
 
 ###
